@@ -1,0 +1,31 @@
+{
+  "name": "ngckeditor",
+  "homepage": "https://github.com/douglaslira/ngckeditor",
+  "authors": [
+    "Douglas Lira <douglas.lira.web@gmail.com>"
+  ],
+  "description": "Component WYSIWYG",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "AngularJS",
+    "WYSIWYG",
+    "Component",
+    "Douglas",
+    "Lira"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "ckeditor": "^4.5.7"
+  }
+}
